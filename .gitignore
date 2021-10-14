@@ -5,6 +5,7 @@
 /PracticeGithub/[Bb]uilds/
 /PracticeGithub/Assets/AssetStoreTools*
 /PracticeGithub/Assets/ExclusionFolder
+ExclusionFolder.meta
 
 # Visual Studio cache directory
 /PracticeGitHub/.vs/
