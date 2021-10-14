@@ -3,11 +3,11 @@
 /PracticeGithub/[Oo]bj/
 /PracticeGithub/[Bb]uild/
 /PracticeGithub/[Bb]uilds/
-/PracticeGithub/UserSettings/
 /PracticeGithub/ProjectSettings/
 /PracticeGithub/Assets/AssetStoreTools*
 /PracticeGithub/Assets/ExclusionFolder
 ExclusionFolder.meta
+PracticeGithub/UserSettings/
 
 # Visual Studio cache directory
 /PracticeGitHub/.vs/
