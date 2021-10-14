@@ -4,6 +4,7 @@
 /PracticeGithub/[Bb]uild/
 /PracticeGithub/[Bb]uilds/
 /PracticeGithub/Assets/AssetStoreTools*
+/PracticeGithub/Assets/ExclusionFolder
 
 # Visual Studio cache directory
 /PracticeGitHub/.vs/
